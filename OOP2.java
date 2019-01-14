@@ -97,9 +97,9 @@ package Git_assignment;
 }
 	public class OOP2 {
 			public static void main(String[] args) {
-				Marine m1 = new Marine();
-				Marine m2 = new Marine();
-				Marine m3 = new Marine();
+				Marine2 m1 = new Marine();
+				Marine2 m2 = new Marine();
+				Marine2 m3 = new Marine();
 			}
 		
 		
